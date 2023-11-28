@@ -1,0 +1,5 @@
+--INSERT INTO tb_estado (id, nome, sigla) VALUES (1, 'Rio de Janeiro', 'RJ');
+--INSERT INTO tb_estado (id, nome, sigla) VALUES (2, 'São Paulo', 'SP');
+--INSERT INTO tb_estado (id, nome, sigla) VALUES (3, 'Minas Gerais', 'MG');
+--
+--INSERT INTO tb_time (estado_id, time_id, nome) VALUES (1, 1, 'Vasco da Gama');
